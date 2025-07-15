@@ -1,0 +1,694 @@
+[Skip to content](https://www.geeksforgeeks.org/java/?ref=outind#main)
+• **Courses**
+• **Tutorials**
+• **DSA**
+• **Data Science**
+• **Web Tech**
+• 
+• 
+• 
+• **M**
+
+!https://media.geeksforgeeks.org/gfg-gg-logo.svg
+
+- • **Courses**
+- • **Tutorials**
+- • **DSA**
+- • **Data Science**
+- • **Web Tech**
+- •
+- •
+- •
+- •
+    
+    # **M**
+    
+- [Java Arrays](https://www.geeksforgeeks.org/arrays-in-java/?ref=shm)
+- [Java Strings](https://www.geeksforgeeks.org/strings-in-java/?ref=shm)
+- [Java OOPs](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/?ref=shm)
+- [Java Collection](https://www.geeksforgeeks.org/java-collection-tutorial/?ref=shm)
+- [Java 8 Tutorial](https://www.geeksforgeeks.org/java-8/?ref=shm)
+- [Java Multithreading](https://www.geeksforgeeks.org/java-multithreading-tutorial/?ref=shm)
+- [Java Exception Handling](https://www.geeksforgeeks.org/exceptions-in-java/?ref=shm)
+- [Java Programs](https://www.geeksforgeeks.org/java-programming-examples/?ref=shm)
+- [Java Project](https://www.geeksforgeeks.org/top-50-java-project-ideas-for-beginners-advanced/?ref=shm)
+- [Java Collections Interview](https://www.geeksforgeeks.org/java-collections-interview-questions/?ref=shm)
+- [Java Interview Questions](https://www.geeksforgeeks.org/interview-questions-for-java-professionals/?ref=shm)
+- [Java MCQs](https://www.geeksforgeeks.org/quizzes/50-java-language-mcqs-with-answers-2/?ref=shm)
+- [Spring](https://www.geeksforgeeks.org/spring/?ref=shm)
+- [Spring MVC](https://www.geeksforgeeks.org/spring-mvc/?ref=shm)
+- [Spring Boot](https://www.geeksforgeeks.org/spring-boot/?ref=shm)
+- [Hibernate](https://www.geeksforgeeks.org/hibernate-tutorial/?ref=shm)
+
+▲
+
+# Java Tutorial
+
+Last Updated : 20 Jan, 2025
+
+- 
+- 
+- 
+
+Java is one of the most popular and widely used programming languages.
+
+- Used to develop **mobile apps**, **desktop apps**, **web apps**, **web servers**, **games**, and **enterprise-level systems**.
+- Java was invented by **James Gosling** and **Oracle** currently owns it**.** **JDK 23** is the latest version of Java.
+- Java's syntax is similar to C/C++.
+- Popular platforms like *LinkedIn, Amazon,* and *Netflix* rely on Java for their back-end architecture, showcasing its stability and scalability across different environments.
+- Popularity is so high that **3 Billion+ devices use Java** across the world.
+
+# Java Hello World Program
+
+```
+
+```
+
+1
+
+```
+// A Java program to print "Hello World"
+```
+
+2
+
+```
+public class GFG {
+```
+
+3
+
+```
+    public static void main(String args[])
+```
+
+4
+
+```
+    {
+```
+
+5
+
+```
+        System.out.println("Hello World");
+```
+
+6
+
+```
+    }
+```
+
+7
+
+```
+}
+```
+
+8
+
+```
+
+```
+
+9
+
+```
+// Output:"Hello World"
+```
+
+# Java Basics
+
+- [**What is Java?**](https://www.geeksforgeeks.org/introduction-to-java)
+- [**Download and Install Java?**](https://www.geeksforgeeks.org/how-to-download-and-install-java-for-64-bit-machine)
+- [**JDK vs JRE vs JVM**](https://www.geeksforgeeks.org/differences-jdk-jre-jvm)
+- [**Identifiers**](https://www.geeksforgeeks.org/java-identifiers)
+- [**Keywords**](https://www.geeksforgeeks.org/list-of-all-java-keywords)
+- [**Data Types**](https://www.geeksforgeeks.org/data-types-in-java)
+- [**Variables**](https://www.geeksforgeeks.org/variables-in-java)
+- [**Operators**](https://www.geeksforgeeks.org/operators-in-java)
+- [**Decision Making (if, if-else, switch, break, continue, jump)**](https://www.geeksforgeeks.org/decision-making-javaif-else-switch-break-continue-jump/)
+- [**Loops**](https://www.geeksforgeeks.org/loops-in-java/)
+- Quizzes: [**Java Data Types**](https://www.geeksforgeeks.org/quizzes/data-types-2-gq/)
+
+# Java Methods
+
+- [**Introduction to Methods**](https://www.geeksforgeeks.org/methods-in-java)
+- [**How to Call Methods?**](https://www.geeksforgeeks.org/different-method-calls-in-java/)
+- [**Static Methods vs Instance Methods**](https://www.geeksforgeeks.org/static-methods-vs-instance-methods-java)
+- [**Access Modifiers**](https://www.geeksforgeeks.org/access-modifiers-java/)
+- [**Command Line Arguments**](https://www.geeksforgeeks.org/command-line-arguments-in-java/)
+- [**Variable Arguments (Varargs)**](https://www.geeksforgeeks.org/variable-arguments-varargs-in-java/)
+
+# Java Arrays
+
+- [**Introduction to Arrays**](https://www.geeksforgeeks.org/arrays-in-java)
+- [**Declare and Initialize Arrays**](https://www.geeksforgeeks.org/how-to-initialize-an-array-in-java/)
+- [**Multi-Dimensional Arrays**](https://www.geeksforgeeks.org/multidimensional-arrays-in-java)
+- [**Jagged Arrays**](https://www.geeksforgeeks.org/jagged-array-in-java)
+- [**Arrays Class**](https://www.geeksforgeeks.org/array-class-in-java)
+- [**Final Arrays**](https://www.geeksforgeeks.org/final-arrays-in-java)
+- [**Java Array Programs**](https://www.geeksforgeeks.org/tag/java-array-programs)
+- Quizzes: [**Java Arrays**](https://www.geeksforgeeks.org/quizzes/arrays-gq/)
+
+# Java Strings
+
+- [**Introduction of Strings**](https://www.geeksforgeeks.org/strings-in-java)
+- [**Why Strings are Immutable?**](https://www.geeksforgeeks.org/java-string-is-immutable-what-exactly-is-the-meaning)
+- [**Java String Concatenation**](https://www.geeksforgeeks.org/java-string-concat-examples/)
+- [**String Class**](https://www.geeksforgeeks.org/string-class-in-java)
+- [**StringBuffer Class**](https://www.geeksforgeeks.org/stringbuffer-class-in-java)
+- [**StringBuilder Class**](https://www.geeksforgeeks.org/stringbuilder-class-in-java-with-examples)
+- [**Strings vs StringBuffer vs StringBuilder**](https://www.geeksforgeeks.org/string-vs-stringbuilder-vs-stringbuffer-in-java)
+- [**Java String Programs**](https://www.geeksforgeeks.org/tag/java-string-programs)
+
+# Java OOPs Concepts
+
+- [**What are OOPs Concepts?**](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java)
+- [**Classes and Objects**](https://www.geeksforgeeks.org/classes-objects-java)
+- [**Constructors**](https://www.geeksforgeeks.org/constructors-in-java)
+- [**Object Class**](https://www.geeksforgeeks.org/object-class-in-java)
+- [**Abstraction**](https://www.geeksforgeeks.org/abstraction-in-java-2)
+- [**Encapsulation**](https://www.geeksforgeeks.org/encapsulation-in-java)
+- [**Inheritance**](https://www.geeksforgeeks.org/inheritance-in-java)
+- [**Polymorphism**](https://www.geeksforgeeks.org/polymorphism-in-java)
+    - [**Compile-Time Polymorphism (Method Overloading)**](https://www.geeksforgeeks.org/method-overloading-in-java/)
+    - [**Runtime Polymorphism (Method Overriding)**](https://www.geeksforgeeks.org/overriding-in-java/)
+- [**Packages**](https://www.geeksforgeeks.org/packages-in-java/)
+- Quizzes: [**Constructors**](https://www.geeksforgeeks.org/quizzes/constructors-2-gq/), [**Packages**](https://www.geeksforgeeks.org/quizzes/packages-gq/), [**Classes and Objects**](https://www.geeksforgeeks.org/quizzes/class-and-object-2-gq/)
+
+# Java Interfaces
+
+- [**Java Interfaces**](https://www.geeksforgeeks.org/interfaces-in-java)
+- [**Interfaces and Inheritance**](https://www.geeksforgeeks.org/interfaces-and-inheritance-in-java)
+- [**Class vs Interface**](https://www.geeksforgeeks.org/differences-between-interface-and-class-in-java)
+- [**Functional Interface**](https://www.geeksforgeeks.org/functional-interfaces-java)
+- [**Nested Interface**](https://www.geeksforgeeks.org/interface-nested-class-another-interface)
+- [**Marker Interface**](https://www.geeksforgeeks.org/marker-interface-java)
+- [**Comparator Interface**](https://www.geeksforgeeks.org/comparator-interface-java)
+- Quizzes: [**Interface and Abstract Class**](https://www.geeksforgeeks.org/quizzes/abstract-class-and-interface-in-java-gq/)
+
+# Java Collections
+
+- [**Java Collection Framework**](https://www.geeksforgeeks.org/collections-in-java-2)
+- [**Collections Class**](https://www.geeksforgeeks.org/collections-class-in-java)
+- [**Collection Interface**](https://www.geeksforgeeks.org/collection-interface-in-java-with-examples)
+- [**List Interface**](https://www.geeksforgeeks.org/list-interface-java-examples)
+    - [**ArrayList Class**](https://www.geeksforgeeks.org/arraylist-in-java)
+    - [**Vector Class**](https://www.geeksforgeeks.org/java-util-vector-class-java)
+    - [**LinkedList Class**](https://www.geeksforgeeks.org/linked-list-in-java)
+    - [**Stack Class**](https://www.geeksforgeeks.org/stack-class-in-java)
+- [**Set Interface**](https://www.geeksforgeeks.org/set-in-java)
+    - [**HashSet Class**](https://www.geeksforgeeks.org/hashset-in-java)
+    - [**TreeSet Class**](https://www.geeksforgeeks.org/treeset-in-java-with-examples)
+    - [**LinkedHashSet Class**](https://www.geeksforgeeks.org/linkedhashset-in-java-with-examples)
+- [**Queue Interface**](https://www.geeksforgeeks.org/queue-interface-java)
+    - [**Priority Queue Class**](https://www.geeksforgeeks.org/priority-queue-class-in-java-2)
+    - [**Deque Interface**](https://www.geeksforgeeks.org/deque-interface-java-example/)
+- [**Map Interface**](https://www.geeksforgeeks.org/map-interface-java-examples)
+    - [**HashMap Class**](https://www.geeksforgeeks.org/java-util-hashmap-in-java)
+    - [**LinkedHashMap Class**](https://www.geeksforgeeks.org/linkedhashmap-class-java-examples)
+    - [**HashTable Class**](https://www.geeksforgeeks.org/hashtable-in-java)
+    - [**Dictionary**](https://www.geeksforgeeks.org/java-util-dictionary-class-java)
+- [**SortedSet Interface**](https://www.geeksforgeeks.org/sortedset-java-examples)
+- [**Comparator Interface**](https://www.geeksforgeeks.org/comparator-interface-java)
+- [**Comparable Interface**](https://www.geeksforgeeks.org/comparable-interface-in-java-with-examples/)
+- [**Comparator vs Comparable**](https://www.geeksforgeeks.org/comparable-vs-comparator-in-java)
+- [**Iterator**](https://www.geeksforgeeks.org/iterators-in-java)
+
+# Java Exception Handling
+
+- [**Java Exceptions**](https://www.geeksforgeeks.org/exceptions-in-java/)
+- [**Checked vs Unchecked Exceptions**](https://www.geeksforgeeks.org/checked-vs-unchecked-exceptions-in-java/)
+- [**Try Catch Block**](https://www.geeksforgeeks.org/try-catch-throw-and-throws-in-java/)
+- [**Final, Finally and Finalize**](https://www.geeksforgeeks.org/g-fact-24-finalfinally-and-finalize-in-java/)
+- [**Throw and Throws**](https://www.geeksforgeeks.org/throw-throws-java/)
+- [**Customized Exception Handling**](https://www.geeksforgeeks.org/user-defined-custom-exception-in-java/)
+- [**Chained Exceptions**](https://www.geeksforgeeks.org/chained-exceptions-java/)
+- [**Null Pointer Exceptions**](https://www.geeksforgeeks.org/null-pointer-exception-in-java/)
+- [**Exception Handling with Method Overriding**](https://www.geeksforgeeks.org/exception-handling-with-method-overriding-in-java/)
+- Quizzes: [**Exception Handling**](https://www.geeksforgeeks.org/quizzes/exception-handling-2-gq/)
+
+# Java Multithreading
+
+- [**Introduction to Java Multithreading**](https://www.geeksforgeeks.org/java-multithreading-tutorial/)
+- [**Threads**](https://www.geeksforgeeks.org/java-threads/)
+- [**Thread Class**](https://www.geeksforgeeks.org/java-lang-thread-class-java)
+- [**Runnable Interface**](https://www.geeksforgeeks.org/runnable-interface-in-java)
+- [**Lifecycle and States of a Thread**](https://www.geeksforgeeks.org/lifecycle-and-states-of-a-thread-in-java/)
+- [**Main Thread**](https://www.geeksforgeeks.org/main-thread-java)
+- [**Thread Priority in Multithreading**](https://www.geeksforgeeks.org/java-thread-priority-multithreading/)
+- [**Naming & Feteching Name of Current Thread**](https://www.geeksforgeeks.org/naming-thread-fetching-name-current-thread-java/)
+- [**Thread.start() vs Thread.run() Method**](https://www.geeksforgeeks.org/difference-between-thread-start-and-thread-run-in-java/)
+- [**Thread.sleep() Method**](https://www.geeksforgeeks.org/thread-sleep-method-in-java-with-examples/)
+- [**Daemon Thread**](https://www.geeksforgeeks.org/daemon-thread-java/)
+- [**Thread Safety**](https://www.geeksforgeeks.org/thread-safety-and-how-to-achieve-it-in-java/)
+- [**Thread Pools**](https://www.geeksforgeeks.org/thread-pools-java/)
+
+# Java File Handling
+
+- [**File Handling**](https://www.geeksforgeeks.org/file-handling-in-java/)
+- [**File Class**](https://www.geeksforgeeks.org/file-class-in-java)
+- [**Create Files**](https://www.geeksforgeeks.org/java-program-to-create-a-new-file)
+- [**Read Files**](https://www.geeksforgeeks.org/different-ways-reading-text-file-java)
+- [**Write on Files**](https://www.geeksforgeeks.org/java-program-to-write-into-a-file)
+- [**Delete File**](https://www.geeksforgeeks.org/delete-file-using-java)
+- [**FileReader Class**](https://www.geeksforgeeks.org/java-io-filereader-class/)
+- [**FileWriter Class**](https://www.geeksforgeeks.org/filewriter-class-in-java)
+- [**FilePermission Class**](https://www.geeksforgeeks.org/java-io-filepermission-class-java/)
+- [**FileDescriptor Class**](https://www.geeksforgeeks.org/java-io-filedescriptor-java)
+
+# Java Streams and Lambda Expressions
+
+- [**Lambda Expressions**](https://www.geeksforgeeks.org/lambda-expressions-java-8/)
+- [**Method References**](https://www.geeksforgeeks.org/method-references-in-java-with-examples/)
+- [**Java Stream - Complete Tutorial**](https://www.geeksforgeeks.org/java-8-stream-tutorial/)
+- [**Java 8 Features - Complete Tutorial**](https://www.geeksforgeeks.org/java-8-features/)
+
+# Java IO
+
+- [**Introduction to Java IO**](https://www.geeksforgeeks.org/java-io-input-output-in-java-with-examples)
+- [**Reader Class**](https://www.geeksforgeeks.org/java-io-reader-class-java)
+- [**Writer Class**](https://www.geeksforgeeks.org/java-io-writer-class-java)
+- [**FileInput Stream**](https://www.geeksforgeeks.org/java-io-fileinputstream-class-java)
+- [**FileOutput Stream**](https://www.geeksforgeeks.org/fileoutputstream-in-java)
+- [**BufferedReader Input Stream**](https://www.geeksforgeeks.org/ways-to-read-input-from-console-in-java)
+- [**BufferedReader Output stream**](https://www.geeksforgeeks.org/java-io-bufferedoutputstream-class-java)
+- [**BufferedReader vs Scanner**](https://www.geeksforgeeks.org/difference-between-scanner-and-bufferreader-class-in-java)
+- [**Fast I/O**](https://www.geeksforgeeks.org/fast-io-in-java-in-competitive-programming)
+
+# Java Synchronization
+
+- [**Java Synchronization**](https://www.geeksforgeeks.org/synchronized-in-java)
+- [**Importance of Thread Synchronization**](https://www.geeksforgeeks.org/importance-of-thread-synchronization-in-java)
+- [**Method and Block Synchronization**](https://www.geeksforgeeks.org/method-block-synchronization-java)
+- [**Atomic vs Volatile vs Synchronized**](https://www.geeksforgeeks.org/difference-between-atomic-volatile-and-synchronized-in-java)
+- [**Local Frameworks vs Thread Synchronization**](https://www.geeksforgeeks.org/lock-framework-vs-thread-synchronization-in-java)
+- [**Deadlock in Multithreading**](https://www.geeksforgeeks.org/deadlock-in-java-multithreading)
+- [**Deadlock Prevention and Avoidance**](https://www.geeksforgeeks.org/deadlock-prevention)
+- [**Lock vs Monitor in Concurrency**](https://www.geeksforgeeks.org/difference-between-lock-and-monitor-in-java-concurrency)
+- [**Reentrant Lock**](https://www.geeksforgeeks.org/reentrant-lock-java)
+
+# Java Regex
+
+- [**What is Java Regex?**](https://www.geeksforgeeks.org/regular-expressions-in-java)
+- [**Pattern Class**](https://www.geeksforgeeks.org/pattern-pattern-method-in-java-with-examples)
+- [**Matcher Class**](https://www.geeksforgeeks.org/matcher-pattern-method-in-java-with-examples)
+- [**Character Class**](https://www.geeksforgeeks.org/java-lang-character-class-methods-set-1)
+- [**Quantifiers**](https://www.geeksforgeeks.org/quantifiers-in-java)
+
+# Java Networking
+
+- [**Introduction to Java Networking**](https://www.geeksforgeeks.org/java-networking)
+- [**TCP Architecture**](https://www.geeksforgeeks.org/tcp-ip-model)
+- [**UDP Architecture**](https://www.geeksforgeeks.org/user-datagram-protocol-udp)
+- [**IPV4 vs IPV6**](https://www.geeksforgeeks.org/differences-between-ipv4-and-ipv6)
+- [**Connection-Oriented vs Connectionless Protocols**](https://www.geeksforgeeks.org/difference-between-connection-oriented-and-connection-less-services)
+- [**Socket Programming**](https://www.geeksforgeeks.org/socket-programming-in-java)
+- [**Server Socket Class**](https://www.geeksforgeeks.org/java-net-serversocket-class-in-java)
+- [**URL Class and Methods**](https://www.geeksforgeeks.org/url-class-java-examples)
+
+# Java Database Connectivity(JDBC)
+
+- [**Introduction to Java JDBC**](https://www.geeksforgeeks.org/introduction-to-jdbc)
+- [**JDBC Driver**](https://www.geeksforgeeks.org/jdbc-drivers)
+- [**JDBC Connection**](https://www.geeksforgeeks.org/establishing-jdbc-connection-in-java)
+- [**Types of Statements in JDBC**](https://www.geeksforgeeks.org/types-of-statements-in-jdbc)
+
+# Java Memory Allocation
+
+- [**Java Memory Management**](https://www.geeksforgeeks.org/java-memory-management)
+- [**How Java Objects Stored in Memory?**](https://www.geeksforgeeks.org/g-fact-46)
+- [**Stack vs Heap Memory Allocation**](https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation)
+- [**Java Virtual Machine(JVM) Stack Area**](https://www.geeksforgeeks.org/java-virtual-machine-jvm-stack-area)
+- [**Types of Memory Areas Allocated by JVM**](https://www.geeksforgeeks.org/how-many-types-of-memory-areas-are-allocated-by-jvm)
+- [**Garbage Collection**](https://www.geeksforgeeks.org/garbage-collection-java)
+- [**Types of JVM Garbage Collectors**](https://www.geeksforgeeks.org/types-of-jvm-garbage-collectors-in-java-with-implementation-details)
+- [**Heap and Stack Memory Allocation**](https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation)
+- [**Memory Leaks**](https://www.geeksforgeeks.org/memory-leaks-java)
+
+# Java Interview Questions
+
+- [**200+ Core Java Interview Questions and Answers**](https://www.geeksforgeeks.org/java-interview-questions/)
+- [**Java MCQ**](https://www.geeksforgeeks.org/java-multiple-choice-questions/)
+
+# Java Practice Problems
+
+- [**Java Programming Examples**](https://www.geeksforgeeks.org/java-programming-examples)
+- [**Java Exercises – Basic to Advanced Java Practice Programs**](https://www.geeksforgeeks.org/java-exercises)
+- [**Java Language MCQs with Answers**](https://www.geeksforgeeks.org/50-java-language-mcqs-with-answers-2)
+- [**Java Practice Quiz**](https://www.geeksforgeeks.org/java-gq)
+
+# Java Projects
+
+- [**Number Guessing Game**](https://www.geeksforgeeks.org/number-guessing-game-in-java/)
+- [**Simple Banking Application**](https://www.geeksforgeeks.org/mini-banking-application-in-java/)
+- [**Currency Converter**](https://www.geeksforgeeks.org/java-program-to-convert-currency-using-awt/)
+- [**Tic-Tac-Toe Game**](https://www.geeksforgeeks.org/tic-tac-toe-game-in-java/)
+- [**Snake Game**](https://www.geeksforgeeks.org/design-snake-game/)
+- [**Memory Game**](https://www.geeksforgeeks.org/memory-game-in-java/)
+- [**Chat Application**](https://www.geeksforgeeks.org/simple-chat-application-using-sockets-in-java/)
+- [**Face Detection System**](https://www.geeksforgeeks.org/image-processing-in-java-face-detection/)
+- [**Social Networking Site**](https://www.geeksforgeeks.org/design-scalable-system-like-instagram/)
+- [**Text Editor**](https://www.geeksforgeeks.org/java-swing-create-a-simple-text-editor/)
+
+# Java Jobs & Opportunities
+
+According to report of Statista, Java is most demanded programming languages after JavaScript by recruiters worldwide in 2024. Major MNC companies are recruiting Java Programmers.
+
+- [**Amazon**](https://www.geeksforgeeks.org/amazon-recruitment-process)
+- [**IBM**](https://www.geeksforgeeks.org/ibm-recruitment-process)
+- [**Google**](https://www.geeksforgeeks.org/google-recruitment-process)
+- [**Honeywell**](https://www.geeksforgeeks.org/honeywell-technology-recruitment-process)
+- [**Netflix**](https://www.geeksforgeeks.org/netflix-recruitment-process)
+- [**Meta**](https://www.geeksforgeeks.org/facebookmeta-recruitment-process)
+- [**Wipro**](https://www.geeksforgeeks.org/wipro-recruitment-process)
+- [**Infosys**](https://www.geeksforgeeks.org/infosys-recruitment-process)
+- [**Accenture**](https://www.geeksforgeeks.org/accenture-recruitment-process)
+- [**Oracle Inc**](https://www.geeksforgeeks.org/oracle-recruitment-process)
+- [**Deloitte India**](https://www.geeksforgeeks.org/deloitte-recruitment-process)
+- [**Cognizant**](https://www.geeksforgeeks.org/accenture-recruitment-process)
+- [**Capgemini**](https://www.geeksforgeeks.org/capgemini-recruitment-process) and Many more...
+
+!https://media.geeksforgeeks.org/wp-content/uploads/20241128180606809838/Java-Tutorial.png
+
+# FAQs - Learn Java Programming
+
+### What is Java?
+
+> Developed by Sun Microsystems in 1995, Java is a highly popular, object-oriented programming language. This platform independent programming language is utilized for Android development, web development, artificial intelligence, cloud applications, and much more.
+> 
+
+### Why use Java ?
+
+> Java is simple to understand programming language because doesn’t contain concepts like : Pointers and operator overloading and it is secure and portable.
+> 
+
+### What are the major concepts in Java?
+
+> There are 4 major concept in Java that is abstraction, encapsulation, polymorphism, and inheritance. Along with this Java also works with three OOPs concept
+> 
+
+### How Java different to C++ ?
+
+| **C++** | **JAVA** |
+| --- | --- |
+| C++ is platform dependent. | Java is platform independent. |
+| C++ uses compiler only. | Java uses compiler and interpreter both. |
+| C++ support pointers and operator overloading. | Java doesn’t support pointers and operator overloading concept. |
+
+### Why Java is so popular programming language?
+
+> Java is based on object model hence it is one the popular programming language.
+> 
+
+### What are the scope of Java Technologies for Web Applications?
+
+> Java Technologies for Web Applications are a set of Java-based technologies that are used to develop web applications. These technologies include:Java Servlet APIJavaServer PagesJavaServer Faces Enterprise JavaBeansJDBC (Java Database Connectivity)Java Messaging Service (JMS):JavaMail API:JAX-WS
+> 
+
+Comment
+
+More info
+
+[**Advertise with us**](https://www.geeksforgeeks.org/about/contact-us/?listicles)
+
+[Next Article](https://www.geeksforgeeks.org/introduction-to-java/?ref=next_article)
+
+[Introduction to Java](https://www.geeksforgeeks.org/introduction-to-java/?ref=next_article)
+
+# **Similar Reads**
+
+- [**Java TutorialJava is one of the most popular and widely used programming languages. Used to develop mobile apps, desktop apps, web apps, web servers, games, and enterprise-level systems. Java was invented by James Gosling and Oracle currently owns it. JDK 23 is the latest version of Java. Java's syntax is simila4 min read**](https://www.geeksforgeeks.org/java/?ref=lbp)
+
+## **Java Overview**
+
+## **Java Basics**
+
+## **Java Flow Control**
+
+## **Java Methods**
+
+## **Java Arrays**
+
+## **Java Strings**
+
+## **Java OOPs Concepts**
+
+## **Java Interfaces**
+
+## **Java Collections**
+
+## **Java Exception Handling**
+
+## **Java Multithreading**
+
+## **Java File Handling**
+
+## **Java Streams and Lambda Expressions**
+
+## **Java IO**
+
+## **Java Synchronization**
+
+## **Java Regex**
+
+## **Java Networking**
+
+## **JDBC**
+
+## **Java Memory Allocation**
+
+## **Java Interview Questions**
+
+## **Java Practice Problems**
+
+## **Java Projects**
+
+!https://media.geeksforgeeks.org/auth-dashboard-uploads/premium_oin_rbar_min.png
+
+**Corporate & Communications Address:**A-143, 7th Floor, Sovereign Corporate Tower, Sector- 136, Noida, Uttar Pradesh (201305)**Registered Address:**K 061, Tower K, Gulshan Vivante Apartment, Sector 137, Noida, Gautam Buddh Nagar, Uttar Pradesh, 201305[**Advertise with us**](https://www.geeksforgeeks.org/advertise-with-us/?ref=footer)
+• **Company**
+• [About Us](https://www.geeksforgeeks.org/about/?ref=outindfooter)
+• [Legal](https://www.geeksforgeeks.org/legal/?ref=outindfooter)
+• [Privacy Policy](https://www.geeksforgeeks.org/legal/privacy-policy/?ref=outindfooter)
+• [In Media](https://www.geeksforgeeks.org/press-release/?ref=outindfooter)
+• [Contact Us](https://www.geeksforgeeks.org/about/contact-us/?ref=outindfooter)
+• [Advertise with us](https://www.geeksforgeeks.org/advertise-with-us/?ref=outindfooter)
+• [GFG Corporate Solution](https://www.geeksforgeeks.org/gfg-corporate-solution/?ref=outindfooter)
+• [Placement Training Program](https://www.geeksforgeeks.org/campus-training-program/?ref=outindfooter)
+• [GeeksforGeeks Community](https://www.geeksforgeeks.org/community/?ref=outindfooter)
+• [**Languages**](https://www.geeksforgeeks.org/introduction-to-programming-languages/?ref=outindfooter)
+• [Python](https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter)
+• [Java](https://www.geeksforgeeks.org/java/?ref=outindfooter)
+• [C++](https://www.geeksforgeeks.org/c-plus-plus/?ref=outindfooter)
+• [PHP](https://www.geeksforgeeks.org/php-tutorials/?ref=outindfooter)
+• [GoLang](https://www.geeksforgeeks.org/golang/?ref=outindfooter)
+• [SQL](https://www.geeksforgeeks.org/sql-tutorial/?ref=outindfooter)
+• [R Language](https://www.geeksforgeeks.org/r-tutorial/?ref=outindfooter)
+• [Android Tutorial](https://www.geeksforgeeks.org/android-tutorial/?ref=outindfooter)
+• [Tutorials Archive](https://www.geeksforgeeks.org/geeksforgeeks-online-tutorials-free/?ref=outindfooter)
+• [**DSA**](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=outindfooter)
+• [Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=outindfooter)
+• [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=outindfooter)
+• [DSA for Beginners](https://www.geeksforgeeks.org/complete-guide-to-dsa-for-beginners/?ref=outindfooter)
+• [Basic DSA Problems](https://www.geeksforgeeks.org/basic-coding-problems-in-dsa-for-beginners/?ref=outindfooter)
+• [DSA Roadmap](https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/?ref=outindfooter)
+• [Top 100 DSA Interview Problems](https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/?ref=outindfooter)
+• [DSA Roadmap by Sandeep Jain](https://www.geeksforgeeks.org/dsa-roadmap-for-beginner-to-advanced-by-sandeep-jain/?ref=outindfooter)
+• [All Cheat Sheets](https://www.geeksforgeeks.org/geeksforgeeks-master-sheet-list-of-all-cheat-sheets/?ref=outindfooter)
+• [**Data Science & ML**](https://www.geeksforgeeks.org/ai-ml-ds/?ref=outindfooter)
+• [Data Science With Python](https://www.geeksforgeeks.org/data-science-tutorial/?ref=outindfooter)
+• [Data Science For Beginner](https://www.geeksforgeeks.org/data-science-for-beginners/?ref=outindfooter)
+• [Machine Learning](https://www.geeksforgeeks.org/machine-learning/?ref=outindfooter)
+• [ML Maths](https://www.geeksforgeeks.org/machine-learning-mathematics/?ref=outindfooter)
+• [Data Visualisation](https://www.geeksforgeeks.org/python-data-visualization-tutorial/?ref=outindfooter)
+• [Pandas](https://www.geeksforgeeks.org/pandas-tutorial/?ref=outindfooter)
+• [NumPy](https://www.geeksforgeeks.org/numpy-tutorial/?ref=outindfooter)
+• [NLP](https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/?ref=outindfooter)
+• [Deep Learning](https://www.geeksforgeeks.org/deep-learning-tutorial/?ref=outindfooter)
+• [**Web Technologies**](https://www.geeksforgeeks.org/web-technology/?ref=outindfooter)
+• [HTML](https://www.geeksforgeeks.org/html/?ref=outindfooter)
+• [CSS](https://www.geeksforgeeks.org/css/?ref=outindfooter)
+• [JavaScript](https://www.geeksforgeeks.org/javascript/?ref=outindfooter)
+• [TypeScript](https://www.geeksforgeeks.org/typescript/?ref=outindfooter)
+• [ReactJS](https://www.geeksforgeeks.org/learn-reactjs/?ref=outindfooter)
+• [NextJS](https://www.geeksforgeeks.org/nextjs/?ref=outindfooter)
+• [Bootstrap](https://www.geeksforgeeks.org/bootstrap/?ref=outindfooter)
+• [Web Design](https://www.geeksforgeeks.org/web-design/?ref=outindfooter)
+• [**Python Tutorial**](https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter)
+• [Python Programming Examples](https://www.geeksforgeeks.org/python-programming-examples/?ref=outindfooter)
+• [Python Projects](https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/?ref=outindfooter)
+• [Python Tkinter](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=outindfooter)
+• [Web Scraping](https://www.geeksforgeeks.org/python-web-scraping-tutorial/?ref=outindfooter)
+• [OpenCV Tutorial](https://www.geeksforgeeks.org/opencv-python-tutorial/?ref=outindfooter)
+• [Python Interview Question](https://www.geeksforgeeks.org/python-interview-questions/?ref=outindfooter)
+• [Django](https://www.geeksforgeeks.org/django-tutorial/?ref=outindfooter)
+• **Computer Science**
+• [Operating Systems](https://www.geeksforgeeks.org/operating-systems/?ref=outindfooter)
+• [Computer Network](https://www.geeksforgeeks.org/computer-network-tutorials/?ref=outindfooter)
+• [Database Management System](https://www.geeksforgeeks.org/dbms/?ref=outindfooter)
+• [Software Engineering](https://www.geeksforgeeks.org/software-engineering/?ref=outindfooter)
+• [Digital Logic Design](https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/?ref=outindfooter)
+• [Engineering Maths](https://www.geeksforgeeks.org/engineering-mathematics-tutorials/?ref=outindfooter)
+• [Software Development](https://www.geeksforgeeks.org/software-development/?ref=outindfooter)
+• [Software Testing](https://www.geeksforgeeks.org/software-testing-tutorial/?ref=outindfooter)
+• [**DevOps**](https://www.geeksforgeeks.org/devops-tutorial/?ref=outindfooter)
+• [Git](https://www.geeksforgeeks.org/git-tutorial/?ref=outindfooter)
+• [Linux](https://www.geeksforgeeks.org/linux-tutorial/?ref=outindfooter)
+• [AWS](https://www.geeksforgeeks.org/aws-tutorial/?ref=outindfooter)
+• [Docker](https://www.geeksforgeeks.org/docker-tutorial/?ref=outindfooter)
+• [Kubernetes](https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=outindfooter)
+• [Azure](https://www.geeksforgeeks.org/microsoft-azure/?ref=outindfooter)
+• [GCP](https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=outindfooter)
+• [DevOps Roadmap](https://www.geeksforgeeks.org/devops-roadmap/?ref=outindfooter)
+• [**System Design**](https://www.geeksforgeeks.org/system-design-tutorial/?ref=outindfooter)
+• [High Level Design](https://www.geeksforgeeks.org/what-is-high-level-design-learn-system-design/?ref=outindfooter)
+• [Low Level Design](https://www.geeksforgeeks.org/what-is-low-level-design-or-lld-learn-system-design/?ref=outindfooter)
+• [UML Diagrams](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/?ref=outindfooter)
+• [Interview Guide](https://www.geeksforgeeks.org/system-design-interview-guide/?ref=outindfooter)
+• [Design Patterns](https://www.geeksforgeeks.org/software-design-patterns/?ref=outindfooter)
+• [OOAD](https://www.geeksforgeeks.org/object-oriented-analysis-and-design/?ref=outindfooter)
+• [System Design Bootcamp](https://www.geeksforgeeks.org/system-design-interview-bootcamp-guide/?ref=outindfooter)
+• [Interview Questions](https://www.geeksforgeeks.org/most-commonly-asked-system-design-interview-problems-questions/?ref=outindfooter)
+• [**Inteview Preparation**](https://www.geeksforgeeks.org/technical-interview-preparation/?ref=outindfooter)
+• [Competitive Programming](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=outindfooter)
+• [Top DS or Algo for CP](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/?ref=outindfooter)
+• [Company-Wise Recruitment Process](https://www.geeksforgeeks.org/company-wise-recruitment-process/?ref=outindfooter)
+• [Company-Wise Preparation](https://www.geeksforgeeks.org/company-preparation/?ref=outindfooter)
+• [Aptitude Preparation](https://www.geeksforgeeks.org/aptitude-questions-and-answers/?ref=outindfooter)
+• [Puzzles](https://www.geeksforgeeks.org/puzzles/?ref=outindfooter)
+• **School Subjects**
+• [Mathematics](https://www.geeksforgeeks.org/maths/?ref=outindfooter)
+• [Physics](https://www.geeksforgeeks.org/physics/?ref=outindfooter)
+• [Chemistry](https://www.geeksforgeeks.org/chemistry/?ref=outindfooter)
+• [Biology](https://www.geeksforgeeks.org/biology/?ref=outindfooter)
+• [Social Science](https://www.geeksforgeeks.org/social-science/?ref=outindfooter)
+• [English Grammar](https://www.geeksforgeeks.org/english-grammar/?ref=outindfooter)
+• [Commerce](https://www.geeksforgeeks.org/commerce/?ref=outindfooter)
+• [World GK](https://www.geeksforgeeks.org/tag/world-general-knowledge/?ref=outindfooter)
+• [**GeeksforGeeks Videos**](https://www.geeksforgeeks.org/videos/?ref=outindfooter)
+• [DSA](https://www.geeksforgeeks.org/videos/category/sde-sheet/?ref=outindfooter)
+• [Python](https://www.geeksforgeeks.org/videos/category/python/?ref=outindfooter)
+• [Java](https://www.geeksforgeeks.org/videos/category/java-w6y5f4/?ref=outindfooter)
+• [C++](https://www.geeksforgeeks.org/videos/category/c/?ref=outindfooter)
+• [Web Development](https://www.geeksforgeeks.org/videos/category/web-development/?ref=outindfooter)
+• [Data Science](https://www.geeksforgeeks.org/videos/category/data-science/?ref=outindfooter)
+• [CS Subjects](https://www.geeksforgeeks.org/videos/category/cs-subjects/?ref=outindfooter)[@GeeksforGeeks, Sanchhaya Education Private Limited](https://www.geeksforgeeks.org/), [All rights reserved](https://www.geeksforgeeks.org/copyright-information/)
+
+!https://media.geeksforgeeks.org/auth-dashboard-uploads/gfgFooterLogo.png
+
+!https://media.geeksforgeeks.org/auth-dashboard-uploads/googleplay.png
+
+!https://media.geeksforgeeks.org/auth-dashboard-uploads/appstore.png
+
+- • **Company**
+- • [About Us](https://www.geeksforgeeks.org/about/?ref=outindfooter)
+- • [Legal](https://www.geeksforgeeks.org/legal/?ref=outindfooter)
+- • [Privacy Policy](https://www.geeksforgeeks.org/legal/privacy-policy/?ref=outindfooter)
+- • [In Media](https://www.geeksforgeeks.org/press-release/?ref=outindfooter)
+- • [Contact Us](https://www.geeksforgeeks.org/about/contact-us/?ref=outindfooter)
+- • [Advertise with us](https://www.geeksforgeeks.org/advertise-with-us/?ref=outindfooter)
+- • [GFG Corporate Solution](https://www.geeksforgeeks.org/gfg-corporate-solution/?ref=outindfooter)
+- • [Placement Training Program](https://www.geeksforgeeks.org/campus-training-program/?ref=outindfooter)
+- • [GeeksforGeeks Community](https://www.geeksforgeeks.org/community/?ref=outindfooter)
+- • [**Languages**](https://www.geeksforgeeks.org/introduction-to-programming-languages/?ref=outindfooter)
+- • [Python](https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter)
+- • [Java](https://www.geeksforgeeks.org/java/?ref=outindfooter)
+- • [C++](https://www.geeksforgeeks.org/c-plus-plus/?ref=outindfooter)
+- • [PHP](https://www.geeksforgeeks.org/php-tutorials/?ref=outindfooter)
+- • [GoLang](https://www.geeksforgeeks.org/golang/?ref=outindfooter)
+- • [SQL](https://www.geeksforgeeks.org/sql-tutorial/?ref=outindfooter)
+- • [R Language](https://www.geeksforgeeks.org/r-tutorial/?ref=outindfooter)
+- • [Android Tutorial](https://www.geeksforgeeks.org/android-tutorial/?ref=outindfooter)
+- • [Tutorials Archive](https://www.geeksforgeeks.org/geeksforgeeks-online-tutorials-free/?ref=outindfooter)
+- • [**DSA**](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=outindfooter)
+- • [Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=outindfooter)
+- • [Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=outindfooter)
+- • [DSA for Beginners](https://www.geeksforgeeks.org/complete-guide-to-dsa-for-beginners/?ref=outindfooter)
+- • [Basic DSA Problems](https://www.geeksforgeeks.org/basic-coding-problems-in-dsa-for-beginners/?ref=outindfooter)
+- • [DSA Roadmap](https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/?ref=outindfooter)
+- • [Top 100 DSA Interview Problems](https://www.geeksforgeeks.org/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/?ref=outindfooter)
+- • [DSA Roadmap by Sandeep Jain](https://www.geeksforgeeks.org/dsa-roadmap-for-beginner-to-advanced-by-sandeep-jain/?ref=outindfooter)
+- • [All Cheat Sheets](https://www.geeksforgeeks.org/geeksforgeeks-master-sheet-list-of-all-cheat-sheets/?ref=outindfooter)
+- • [**Data Science & ML**](https://www.geeksforgeeks.org/ai-ml-ds/?ref=outindfooter)
+- • [Data Science With Python](https://www.geeksforgeeks.org/data-science-tutorial/?ref=outindfooter)
+- • [Data Science For Beginner](https://www.geeksforgeeks.org/data-science-for-beginners/?ref=outindfooter)
+- • [Machine Learning](https://www.geeksforgeeks.org/machine-learning/?ref=outindfooter)
+- • [ML Maths](https://www.geeksforgeeks.org/machine-learning-mathematics/?ref=outindfooter)
+- • [Data Visualisation](https://www.geeksforgeeks.org/python-data-visualization-tutorial/?ref=outindfooter)
+- • [Pandas](https://www.geeksforgeeks.org/pandas-tutorial/?ref=outindfooter)
+- • [NumPy](https://www.geeksforgeeks.org/numpy-tutorial/?ref=outindfooter)
+- • [NLP](https://www.geeksforgeeks.org/natural-language-processing-nlp-tutorial/?ref=outindfooter)
+- • [Deep Learning](https://www.geeksforgeeks.org/deep-learning-tutorial/?ref=outindfooter)
+- • [**Web Technologies**](https://www.geeksforgeeks.org/web-technology/?ref=outindfooter)
+- • [HTML](https://www.geeksforgeeks.org/html/?ref=outindfooter)
+- • [CSS](https://www.geeksforgeeks.org/css/?ref=outindfooter)
+- • [JavaScript](https://www.geeksforgeeks.org/javascript/?ref=outindfooter)
+- • [TypeScript](https://www.geeksforgeeks.org/typescript/?ref=outindfooter)
+- • [ReactJS](https://www.geeksforgeeks.org/learn-reactjs/?ref=outindfooter)
+- • [NextJS](https://www.geeksforgeeks.org/nextjs/?ref=outindfooter)
+- • [Bootstrap](https://www.geeksforgeeks.org/bootstrap/?ref=outindfooter)
+- • [Web Design](https://www.geeksforgeeks.org/web-design/?ref=outindfooter)
+- • [**Python Tutorial**](https://www.geeksforgeeks.org/python-programming-language/?ref=outindfooter)
+- • [Python Programming Examples](https://www.geeksforgeeks.org/python-programming-examples/?ref=outindfooter)
+- • [Python Projects](https://www.geeksforgeeks.org/python-projects-beginner-to-advanced/?ref=outindfooter)
+- • [Python Tkinter](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=outindfooter)
+- • [Web Scraping](https://www.geeksforgeeks.org/python-web-scraping-tutorial/?ref=outindfooter)
+- • [OpenCV Tutorial](https://www.geeksforgeeks.org/opencv-python-tutorial/?ref=outindfooter)
+- • [Python Interview Question](https://www.geeksforgeeks.org/python-interview-questions/?ref=outindfooter)
+- • [Django](https://www.geeksforgeeks.org/django-tutorial/?ref=outindfooter)
+- • **Computer Science**
+- • [Operating Systems](https://www.geeksforgeeks.org/operating-systems/?ref=outindfooter)
+- • [Computer Network](https://www.geeksforgeeks.org/computer-network-tutorials/?ref=outindfooter)
+- • [Database Management System](https://www.geeksforgeeks.org/dbms/?ref=outindfooter)
+- • [Software Engineering](https://www.geeksforgeeks.org/software-engineering/?ref=outindfooter)
+- • [Digital Logic Design](https://www.geeksforgeeks.org/digital-electronics-logic-design-tutorials/?ref=outindfooter)
+- • [Engineering Maths](https://www.geeksforgeeks.org/engineering-mathematics-tutorials/?ref=outindfooter)
+- • [Software Development](https://www.geeksforgeeks.org/software-development/?ref=outindfooter)
+- • [Software Testing](https://www.geeksforgeeks.org/software-testing-tutorial/?ref=outindfooter)
+- • [**DevOps**](https://www.geeksforgeeks.org/devops-tutorial/?ref=outindfooter)
+- • [Git](https://www.geeksforgeeks.org/git-tutorial/?ref=outindfooter)
+- • [Linux](https://www.geeksforgeeks.org/linux-tutorial/?ref=outindfooter)
+- • [AWS](https://www.geeksforgeeks.org/aws-tutorial/?ref=outindfooter)
+- • [Docker](https://www.geeksforgeeks.org/docker-tutorial/?ref=outindfooter)
+- • [Kubernetes](https://www.geeksforgeeks.org/kubernetes-tutorial/?ref=outindfooter)
+- • [Azure](https://www.geeksforgeeks.org/microsoft-azure/?ref=outindfooter)
+- • [GCP](https://www.geeksforgeeks.org/google-cloud-platform-tutorial/?ref=outindfooter)
+- • [DevOps Roadmap](https://www.geeksforgeeks.org/devops-roadmap/?ref=outindfooter)
+- • [**System Design**](https://www.geeksforgeeks.org/system-design-tutorial/?ref=outindfooter)
+- • [High Level Design](https://www.geeksforgeeks.org/what-is-high-level-design-learn-system-design/?ref=outindfooter)
+- • [Low Level Design](https://www.geeksforgeeks.org/what-is-low-level-design-or-lld-learn-system-design/?ref=outindfooter)
+- • [UML Diagrams](https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/?ref=outindfooter)
+- • [Interview Guide](https://www.geeksforgeeks.org/system-design-interview-guide/?ref=outindfooter)
+- • [Design Patterns](https://www.geeksforgeeks.org/software-design-patterns/?ref=outindfooter)
+- • [OOAD](https://www.geeksforgeeks.org/object-oriented-analysis-and-design/?ref=outindfooter)
+- • [System Design Bootcamp](https://www.geeksforgeeks.org/system-design-interview-bootcamp-guide/?ref=outindfooter)
+- • [Interview Questions](https://www.geeksforgeeks.org/most-commonly-asked-system-design-interview-problems-questions/?ref=outindfooter)
+- • [**Inteview Preparation**](https://www.geeksforgeeks.org/technical-interview-preparation/?ref=outindfooter)
+- • [Competitive Programming](https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/?ref=outindfooter)
+- • [Top DS or Algo for CP](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/?ref=outindfooter)
+- • [Company-Wise Recruitment Process](https://www.geeksforgeeks.org/company-wise-recruitment-process/?ref=outindfooter)
+- • [Company-Wise Preparation](https://www.geeksforgeeks.org/company-preparation/?ref=outindfooter)
+- • [Aptitude Preparation](https://www.geeksforgeeks.org/aptitude-questions-and-answers/?ref=outindfooter)
+- • [Puzzles](https://www.geeksforgeeks.org/puzzles/?ref=outindfooter)
+- • **School Subjects**
+- • [Mathematics](https://www.geeksforgeeks.org/maths/?ref=outindfooter)
+- • [Physics](https://www.geeksforgeeks.org/physics/?ref=outindfooter)
+- • [Chemistry](https://www.geeksforgeeks.org/chemistry/?ref=outindfooter)
+- • [Biology](https://www.geeksforgeeks.org/biology/?ref=outindfooter)
+- • [Social Science](https://www.geeksforgeeks.org/social-science/?ref=outindfooter)
+- • [English Grammar](https://www.geeksforgeeks.org/english-grammar/?ref=outindfooter)
+- • [Commerce](https://www.geeksforgeeks.org/commerce/?ref=outindfooter)
+- • [World GK](https://www.geeksforgeeks.org/tag/world-general-knowledge/?ref=outindfooter)
+- • [**GeeksforGeeks Videos**](https://www.geeksforgeeks.org/videos/?ref=outindfooter)
+- • [DSA](https://www.geeksforgeeks.org/videos/category/sde-sheet/?ref=outindfooter)
+- • [Python](https://www.geeksforgeeks.org/videos/category/python/?ref=outindfooter)
+- • [Java](https://www.geeksforgeeks.org/videos/category/java-w6y5f4/?ref=outindfooter)
+- • [C++](https://www.geeksforgeeks.org/videos/category/c/?ref=outindfooter)
+- • [Web Development](https://www.geeksforgeeks.org/videos/category/web-development/?ref=outindfooter)
+- • [Data Science](https://www.geeksforgeeks.org/videos/category/data-science/?ref=outindfooter)
+- • [CS Subjects](https://www.geeksforgeeks.org/videos/category/cs-subjects/?ref=outindfooter)
+
+https://www.geeksforgeeks.org/java/?ref=outind
